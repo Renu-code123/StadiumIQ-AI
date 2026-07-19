@@ -199,17 +199,6 @@ npm run dev
 
 ---
 
-## 🌍 Deployment
-
-For full production deployment instructions, see **[DEPLOY_GUIDE.md](./DEPLOY_GUIDE.md)**.
-
-| Layer | Platform | Cost |
-|---|---|---|
-| ⚛️ Frontend | [Vercel](https://vercel.com) | ✅ Free |
-| 🐍 Backend | [Render](https://render.com) | ✅ Free |
-| 🔥 Database | [Firebase Firestore](https://firebase.google.com) | ✅ Free (Spark) |
-| 🤖 AI | [Google AI Studio](https://aistudio.google.com) | ✅ Free (Flash) |
-
 ### Required Environment Variables
 
 **Backend (Render):**
@@ -250,25 +239,6 @@ StadiumIQ-AI/
 ├── 📖 NAVIGATE_GUIDE.md        # Feature walkthrough guide
 ├── 🚀 DEPLOY_GUIDE.md          # Step-by-step production deployment
 └── 📖 README.md                # This file
-```
-
----
-
-## 🔌 API Endpoints
-
-| Method | Endpoint | Description | Auth |
-|---|---|---|---|
-| `POST` | `/api/chat` | AI stadium assistant chat | None |
-| `POST` | `/api/navigate` | Smart indoor route planner | None |
-| `POST` | `/api/incident` | Generate AI incident report | None |
-| `POST` | `/api/emergency` | Trigger evacuation protocol | None |
-| `POST` | `/api/briefing` | Daily organizer AI briefing | None |
-| `POST` | `/api/sustainability` | Eco-optimization suggestions | None |
-| `POST` | `/api/lost-found` | Lost & Found AI matching | None |
-| `POST` | `/api/translate` | Multi-language translation | None |
-| `GET`  | `/api/crowd-data` | Live crowd density metrics | None |
-| `GET`  | `/docs` | Swagger UI (interactive) | None |
-
 ---
 
 ## 🛡️ User Roles & Dashboards
