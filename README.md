@@ -267,7 +267,6 @@ graph TD
 ```
 
 ---
-
 ## ♿ Accessibility Features
 
 | Feature | Description |
