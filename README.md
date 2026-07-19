@@ -199,24 +199,6 @@ npm run dev
 
 ---
 
-### Required Environment Variables
-
-**Backend (Render):**
-```env
-GEMINI_API_KEY=your_gemini_api_key
-FIREBASE_CREDENTIALS_JSON=your_firebase_service_account_json
-```
-
-**Frontend (Vercel):**
-```env
-NEXT_PUBLIC_API_URL=https://your-backend.onrender.com
-NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=your-project-id
-```
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -239,6 +221,8 @@ StadiumIQ-AI/
 ├── 📖 NAVIGATE_GUIDE.md        # Feature walkthrough guide
 ├── 🚀 DEPLOY_GUIDE.md          # Step-by-step production deployment
 └── 📖 README.md                # This file
+```
+
 ---
 
 ## 🛡️ User Roles & Dashboards
@@ -267,6 +251,7 @@ graph TD
 ```
 
 ---
+
 ## ♿ Accessibility Features
 
 | Feature | Description |
