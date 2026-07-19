@@ -1,0 +1,16 @@
+# Project ignore rules
+NAVIGATE_GUIDE.md
+walkthrough.md
+task.md
+implementation_plan.md
+
+# Python Env / Secrets
+.env
+__pycache__/
+*.pyc
+
+# Node / Next dependencies
+node_modules/
+.next/
+out/
+build/
