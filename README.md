@@ -17,7 +17,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square&logo=checkmarx)](/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=flat-square&logo=github)](/)
 [![Deployment: Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
 [![Backend: Render](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com/)
 [![FIFA 2026](https://img.shields.io/badge/FIFA-World_Cup_2026-CC0000?style=flat-square&logo=fifa&logoColor=white)](/)
